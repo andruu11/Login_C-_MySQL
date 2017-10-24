@@ -1,0 +1,20 @@
+C:\Users\jhass\AppData\Local\Temporary Projects\proy_proys\bin\Debug\proy_proys.exe.config
+C:\Users\jhass\AppData\Local\Temporary Projects\proy_proys\bin\Debug\proy_proys.exe
+C:\Users\jhass\AppData\Local\Temporary Projects\proy_proys\bin\Debug\proy_proys.pdb
+C:\Users\jhass\AppData\Local\Temporary Projects\proy_proys\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\jhass\AppData\Local\Temporary Projects\proy_proys\obj\Debug\proy_proys.csprojResolveAssemblyReference.cache
+C:\Users\jhass\AppData\Local\Temporary Projects\proy_proys\obj\Debug\proy_proys.Form1.resources
+C:\Users\jhass\AppData\Local\Temporary Projects\proy_proys\obj\Debug\proy_proys.Properties.Resources.resources
+C:\Users\jhass\AppData\Local\Temporary Projects\proy_proys\obj\Debug\proy_proys.csproj.GenerateResource.Cache
+C:\Users\jhass\AppData\Local\Temporary Projects\proy_proys\obj\Debug\proy_proys.exe
+C:\Users\jhass\AppData\Local\Temporary Projects\proy_proys\obj\Debug\proy_proys.pdb
+D:\ayudantia\proyectos-visualstudio\proy_proys\proy_proys\bin\Debug\proy_proys.exe.config
+D:\ayudantia\proyectos-visualstudio\proy_proys\proy_proys\obj\Debug\proy_proys.exe
+D:\ayudantia\proyectos-visualstudio\proy_proys\proy_proys\obj\Debug\proy_proys.pdb
+D:\ayudantia\proyectos-visualstudio\proy_proys\proy_proys\bin\Debug\proy_proys.exe
+D:\ayudantia\proyectos-visualstudio\proy_proys\proy_proys\bin\Debug\proy_proys.pdb
+D:\ayudantia\proyectos-visualstudio\proy_proys\proy_proys\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\ayudantia\proyectos-visualstudio\proy_proys\proy_proys\obj\Debug\proy_proys.csprojResolveAssemblyReference.cache
+D:\ayudantia\proyectos-visualstudio\proy_proys\proy_proys\obj\Debug\proy_proys.Form1.resources
+D:\ayudantia\proyectos-visualstudio\proy_proys\proy_proys\obj\Debug\proy_proys.Properties.Resources.resources
+D:\ayudantia\proyectos-visualstudio\proy_proys\proy_proys\obj\Debug\proy_proys.csproj.GenerateResource.Cache
